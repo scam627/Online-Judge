@@ -1,0 +1,20 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #C3C1C1;
+	display: inline;
+}
+
+#container{
+	width: 1350px;
+	min-height: 800px;
+}
+
+#content{
+	width: 950px;
+	min-height: 800px;
+	background-color: white;
+	margin: 0 auto;
+	margin-top: 90px;
+	margin-bottom: 40px;
+}
